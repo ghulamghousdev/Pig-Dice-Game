@@ -65,7 +65,7 @@ The rules of the game are:
 
           
 ## Setup/Installation
-To view the website, click [Pig Dice Game](https://marynganga.github.io/Pig-Dice-Game) or copy (https://marynganga.github.io/Pig-Dice-Game) to your browser and load it.
+To view the website, click [Pig Dice Game](https://ghulamghousdev.github.io/Pig-Dice-Game) or copy (https://marynganga.github.io/Pig-Dice-Game) to your browser and load it.
 
 ## Known Bugs
 No known bugs.
